@@ -24,8 +24,8 @@
       "Simulation"
     ],
     "language": "Python3",
-    "runtime": "N/A",
-    "memory": "N/A",
+    "runtime": "0ms",
+    "memory": "0.00MB",
     "url": "https://leetcode.com/problems/process-string-with-special-operations-ii/",
     "date": "2026-06-17"
   }
