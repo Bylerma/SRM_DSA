@@ -13,5 +13,20 @@
     "memory": "0.00MB (Beats 100%)",
     "url": "https://leetcode.com/problems/two-sum/",
     "date": "2026-06-17"
+  },
+  {
+    "number": "3614",
+    "title": "Process String with Special Operations II",
+    "slug": "process-string-with-special-operations-ii",
+    "difficulty": "Hard",
+    "tags": [
+      "String",
+      "Simulation"
+    ],
+    "language": "Python3",
+    "runtime": "N/A",
+    "memory": "N/A",
+    "url": "https://leetcode.com/problems/process-string-with-special-operations-ii/",
+    "date": "2026-06-17"
   }
 ]
