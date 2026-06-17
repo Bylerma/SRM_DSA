@@ -51,4 +51,4 @@ Follow-up: Can you come up with an algorithm that is less than O(n2) time comp
 ## 📊 Submission Stats
 | Language | Runtime | Memory | Date |
 | --- | --- | --- | --- |
-| Python3 | 0ms (Beats 100%) | 0.00MB (Beats 100%) | 2026-06-17 |
+| Python3 | 0ms (Beats 100%) | 20.31MB (Beats 100%) | 2026-06-17 |
