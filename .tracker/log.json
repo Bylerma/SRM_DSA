@@ -99,7 +99,7 @@
       "Binary Search"
     ],
     "language": "Python3",
-    "runtime": "N/A",
+    "runtime": "20260ms (Beats 100%)",
     "memory": "N/A",
     "url": "https://leetcode.com/problems/search-in-rotated-sorted-array/",
     "date": "2026-06-19"
