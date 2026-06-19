@@ -135,7 +135,7 @@
     ],
     "language": "Python3",
     "runtime": "2ms (Beats 100%)",
-    "memory": "N/A",
+    "memory": "19.5 MB (Beats 100%)",
     "url": "https://leetcode.com/problems/median-of-two-sorted-arrays/",
     "date": "2026-06-19"
   },
