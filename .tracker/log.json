@@ -58,5 +58,20 @@
     "memory": "21.74MB (Beats 77.66%)",
     "url": "https://leetcode.com/problems/subarray-sum-equals-k/",
     "date": "2026-06-18"
+  },
+  {
+    "number": "704",
+    "title": "Binary Search",
+    "slug": "binary-search",
+    "difficulty": "Easy",
+    "tags": [
+      "Array",
+      "Binary Search"
+    ],
+    "language": "Python3",
+    "runtime": "0 ms (Beats 100%)",
+    "memory": "2MB (Beats 100%)",
+    "url": "https://leetcode.com/problems/binary-search/",
+    "date": "2026-06-19"
   }
 ]
