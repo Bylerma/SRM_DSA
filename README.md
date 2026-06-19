@@ -7,17 +7,17 @@ Auto-synced via [LeetCode → GitHub Tracker](https://github.com/swetaverse) Chr
 | Metric | Value |
 | --- | --- |
 | 🔥 Current Streak | **3 Days** |
-| 🚀 Total Solved | **7** |
-| 🟢 Easy Solved | **4** |
+| 🚀 Total Solved | **8** |
+| 🟢 Easy Solved | **5** |
 | 🟡 Medium Solved | **2** |
 | 🔴 Hard Solved | **1** |
 | 📅 Last Updated | **2026-06-19** |
 
 ### 📈 Progress Bar Breakdown
 
-- **Easy:** `[███████████░░░░░░░░░]` **4/7** (57%)
-- **Medium:** `[██████░░░░░░░░░░░░░░]` **2/7** (29%)
-- **Hard:** `[███░░░░░░░░░░░░░░░░░]` **1/7** (14%)
+- **Easy:** `[█████████████░░░░░░░]` **5/8** (63%)
+- **Medium:** `[█████░░░░░░░░░░░░░░░]` **2/8** (25%)
+- **Hard:** `[███░░░░░░░░░░░░░░░░░]` **1/8** (13%)
 
 ---
 
@@ -41,6 +41,7 @@ Auto-synced via [LeetCode → GitHub Tracker](https://github.com/swetaverse) Chr
 
 | Problem | Difficulty | Language | Runtime | Date |
 | --- | --- | --- | --- | --- |
+| [268. Missing Number](solutions/2026-06-19/0268-missing-number/) | 🟢 Easy | Python3 | 0ms (Beats 98%) | 2026-06-19 |
 | [33. Search in Rotated Sorted Array](solutions/2026-06-19/0033-search-in-rotated-sorted-array/) | 🟡 Medium | Python3 | 20260ms (Beats 100%) | 2026-06-19 |
 | [35. Search Insert Position](solutions/2026-06-19/0035-search-insert-position/) | 🟢 Easy | Python3 | 0ms (Beats 100%) | 2026-06-19 |
 | [704. Binary Search](solutions/2026-06-19/0704-binary-search/) | 🟢 Easy | Python3 | 0 ms (Beats 100%) | 2026-06-19 |
