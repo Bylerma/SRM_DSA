@@ -88,5 +88,20 @@
     "memory": "19.85MB (Beats 100%)",
     "url": "https://leetcode.com/problems/search-insert-position/",
     "date": "2026-06-19"
+  },
+  {
+    "number": "33",
+    "title": "Search in Rotated Sorted Array",
+    "slug": "search-in-rotated-sorted-array",
+    "difficulty": "Medium",
+    "tags": [
+      "Array",
+      "Binary Search"
+    ],
+    "language": "Python3",
+    "runtime": "N/A",
+    "memory": "N/A",
+    "url": "https://leetcode.com/problems/search-in-rotated-sorted-array/",
+    "date": "2026-06-19"
   }
 ]
