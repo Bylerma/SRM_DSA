@@ -41,7 +41,7 @@ Auto-synced via [LeetCode → GitHub Tracker](https://github.com/swetaverse) Chr
 
 | Problem | Difficulty | Language | Runtime | Date |
 | --- | --- | --- | --- | --- |
-| [33. Search in Rotated Sorted Array](solutions/2026-06-19/0033-search-in-rotated-sorted-array/) | 🟡 Medium | Python3 | N/A | 2026-06-19 |
+| [33. Search in Rotated Sorted Array](solutions/2026-06-19/0033-search-in-rotated-sorted-array/) | 🟡 Medium | Python3 | 20260ms (Beats 100%) | 2026-06-19 |
 | [35. Search Insert Position](solutions/2026-06-19/0035-search-insert-position/) | 🟢 Easy | Python3 | 0ms (Beats 100%) | 2026-06-19 |
 | [704. Binary Search](solutions/2026-06-19/0704-binary-search/) | 🟢 Easy | Python3 | 0 ms (Beats 100%) | 2026-06-19 |
 | [560. Subarray Sum Equals K](solutions/2026-06-18/0560-subarray-sum-equals-k/) | 🟡 Medium | Python3 | 31ms (Beats 77.66%) | 2026-06-18 |
