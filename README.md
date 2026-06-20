@@ -6,18 +6,18 @@ Auto-synced via [LeetCode → GitHub Tracker](https://github.com/swetaverse) Chr
 
 | Metric | Value |
 | --- | --- |
-| 🔥 Current Streak | **3 Days** |
-| 🚀 Total Solved | **10** |
+| 🔥 Current Streak | **4 Days** |
+| 🚀 Total Solved | **11** |
 | 🟢 Easy Solved | **6** |
-| 🟡 Medium Solved | **2** |
+| 🟡 Medium Solved | **3** |
 | 🔴 Hard Solved | **2** |
-| 📅 Last Updated | **2026-06-19** |
+| 📅 Last Updated | **2026-06-20** |
 
 ### 📈 Progress Bar Breakdown
 
-- **Easy:** `[████████████░░░░░░░░]` **6/10** (60%)
-- **Medium:** `[████░░░░░░░░░░░░░░░░]` **2/10** (20%)
-- **Hard:** `[████░░░░░░░░░░░░░░░░]` **2/10** (20%)
+- **Easy:** `[███████████░░░░░░░░░]` **6/11** (55%)
+- **Medium:** `[█████░░░░░░░░░░░░░░░]` **3/11** (27%)
+- **Hard:** `[████░░░░░░░░░░░░░░░░]` **2/11** (18%)
 
 ---
 
@@ -41,6 +41,7 @@ Auto-synced via [LeetCode → GitHub Tracker](https://github.com/swetaverse) Chr
 
 | Problem | Difficulty | Language | Runtime | Date |
 | --- | --- | --- | --- | --- |
+| [39. Combination Sum](solutions/2026-06-20/0039-combination-sum/) | 🟡 Medium | Python3 | 0 ms (Beats 100%) | 2026-06-20 |
 | [88. Merge Sorted Array](solutions/2026-06-19/0088-merge-sorted-array/) | 🟢 Easy | Python3 | 0 ms (Beats 100%) | 2026-06-19 |
 | [4. Median of Two Sorted Arrays](solutions/2026-06-19/0004-median-of-two-sorted-arrays/) | 🔴 Hard | Python3 | 2ms (Beats 100%) | 2026-06-19 |
 | [268. Missing Number](solutions/2026-06-19/0268-missing-number/) | 🟢 Easy | Python3 | 0ms (Beats 98%) | 2026-06-19 |
