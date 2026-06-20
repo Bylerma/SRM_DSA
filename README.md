@@ -7,17 +7,17 @@ Auto-synced via [LeetCode → GitHub Tracker](https://github.com/swetaverse) Chr
 | Metric | Value |
 | --- | --- |
 | 🔥 Current Streak | **4 Days** |
-| 🚀 Total Solved | **11** |
-| 🟢 Easy Solved | **6** |
+| 🚀 Total Solved | **12** |
+| 🟢 Easy Solved | **7** |
 | 🟡 Medium Solved | **3** |
 | 🔴 Hard Solved | **2** |
 | 📅 Last Updated | **2026-06-20** |
 
 ### 📈 Progress Bar Breakdown
 
-- **Easy:** `[███████████░░░░░░░░░]` **6/11** (55%)
-- **Medium:** `[█████░░░░░░░░░░░░░░░]` **3/11** (27%)
-- **Hard:** `[████░░░░░░░░░░░░░░░░]` **2/11** (18%)
+- **Easy:** `[████████████░░░░░░░░]` **7/12** (58%)
+- **Medium:** `[█████░░░░░░░░░░░░░░░]` **3/12** (25%)
+- **Hard:** `[███░░░░░░░░░░░░░░░░░]` **2/12** (17%)
 
 ---
 
@@ -41,6 +41,7 @@ Auto-synced via [LeetCode → GitHub Tracker](https://github.com/swetaverse) Chr
 
 | Problem | Difficulty | Language | Runtime | Date |
 | --- | --- | --- | --- | --- |
+| [509. Fibonacci Number](solutions/2026-06-20/0509-fibonacci-number/) | 🟢 Easy | Python3 | 0 ms (Beats 100%) | 2026-06-20 |
 | [39. Combination Sum](solutions/2026-06-20/0039-combination-sum/) | 🟡 Medium | Python3 | 0 ms (Beats 100%) | 2026-06-20 |
 | [88. Merge Sorted Array](solutions/2026-06-19/0088-merge-sorted-array/) | 🟢 Easy | Python3 | 0 ms (Beats 100%) | 2026-06-19 |
 | [4. Median of Two Sorted Arrays](solutions/2026-06-19/0004-median-of-two-sorted-arrays/) | 🔴 Hard | Python3 | 2ms (Beats 100%) | 2026-06-19 |
