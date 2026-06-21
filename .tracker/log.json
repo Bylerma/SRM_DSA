@@ -201,5 +201,20 @@
     "memory": "N/A",
     "url": "https://leetcode.com/problems/n-queens/",
     "date": "2026-06-21"
+  },
+  {
+    "number": "876",
+    "title": "Middle of the Linked List",
+    "slug": "middle-of-the-linked-list",
+    "difficulty": "Easy",
+    "tags": [
+      "Linked List",
+      "Two Pointers"
+    ],
+    "language": "Python3",
+    "runtime": "171ms (Beats 95.40%)",
+    "memory": "N/A",
+    "url": "https://leetcode.com/problems/middle-of-the-linked-list/",
+    "date": "2026-06-21"
   }
 ]
