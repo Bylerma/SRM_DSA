@@ -250,5 +250,21 @@
     "memory": "N/A",
     "url": "https://leetcode.com/problems/3sum/",
     "date": "2026-06-22"
+  },
+  {
+    "number": "1189",
+    "title": "Maximum Number of Balloons",
+    "slug": "maximum-number-of-balloons",
+    "difficulty": "Easy",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Counting"
+    ],
+    "language": "Python3",
+    "runtime": "0ms (Beats 100%)",
+    "memory": "19.06MB (Beats 100%)",
+    "url": "https://leetcode.com/problems/maximum-number-of-balloons/",
+    "date": "2026-06-22"
   }
 ]
