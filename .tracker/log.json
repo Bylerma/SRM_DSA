@@ -299,5 +299,21 @@
     "memory": "0.00MB (Beats 100%)",
     "url": "https://leetcode.com/problems/binary-tree-level-order-traversal/",
     "date": "2026-06-22"
+  },
+  {
+    "number": "36",
+    "title": "Valid Sudoku",
+    "slug": "valid-sudoku",
+    "difficulty": "Medium",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Matrix"
+    ],
+    "language": "Python3",
+    "runtime": "0 ms (Beats 96.78%)",
+    "memory": "N/A",
+    "url": "https://leetcode.com/problems/valid-sudoku/",
+    "date": "2026-06-23"
   }
 ]
